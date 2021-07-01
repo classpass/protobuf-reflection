@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package com.classpass.protobuf.reflect.test;
+
+message FavoriteColor {
+    string color = 1;
+    int32 priority = 2;
+}
+
+message FavoriteCar {
+    string make = 1;
+    string model = 2;
+}
