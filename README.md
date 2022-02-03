@@ -55,8 +55,6 @@ implementation("com.classpass.oss.protobuf.reflection", "protobuf-reflection", "
 
 We welcome contributions from everyone! See [CONTRIBUTING.md](CONTRIBUTING.md) for information on making a contribution.
 
-# Development
-
 ## Formatting
 
 The `check` task will check formatting (in addition to the other normal checks), and `formatKotlin` will auto-format.
